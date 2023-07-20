@@ -10,7 +10,7 @@
 	<dependency>
     	<groupId>org.seleniumhq.selenium</groupId>
     	<artifactId>selenium-java</artifactId>
-    	<version>4.4.0</version>
+    	<version>4.9.0</version>
 	</dependency>
 
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -18,7 +18,7 @@
      <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.7.1</version>
-    <scope>test</scope>
+    <scope>compile</scope>
 	</dependency>
 	
 	
@@ -47,7 +47,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>5.1.0</version>
+    <version>5.4.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
